@@ -1,0 +1,142 @@
+################################# Slider #####################################
+slider:
+  enable : true
+  bg_image : "images/banner/banner-01.jpg"
+  slider_item:
+    # slider item loop
+    - title : "A trusted business voice on market-based climate solutions."
+      content : "Empower business to engage in climate action, advancing the objectives of the United Nations Framework Convention on Climate Change and the Paris Agreement as informed by IPCC science."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact/"
+
+    # slider item loop
+    - title : "A trusted business voice on market-based climate solutions."
+      content : "Establish effective market-based trading systems for greenhouse gas (GHG) emissions and removals that are environmentally robust, fair, open, efficient, accountable and consistent across national boundaries."
+      animation_in : "left"
+      animation_out : "right"
+      # available animation : left, right, up, down
+      button:
+        enable : true
+        label : "Apply now"
+        link : "contact/"
+
+    # slider item loop
+    # - title : "A trusted business voice on market-based climate solutions."
+      # content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et magna aliqua. Ut enim ad minim veniam, quis nostrud exer"
+      # animation_in : "left"
+      # animation_out : "right"
+      # available animation : left, right, up, down
+      # button:
+        # enable : true
+        # label : "Apply now"
+        # link : "contact/"
+
+
+############################### Banner feature ###############################
+banner_feature:
+  enable : true
+  image : "images/banner/banner-02.jpg"
+  feature_item:
+    # feature item loop
+    - name : "Our Mission"
+      icon : "ti-arrow-circle-right" # icon pack : https://themify.me/themify-icons
+      content : "Provide the most up-to-date and credible information on emissions trading, GHG market activity and market-based solutions to climate change."
+
+    # feature item loop
+    - name : "Our Focus"
+      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
+      content : "At the international level, NEXTON focuses on the developing transparency rules and accounting standards under Articles 5 and 6 of the Paris Agreement, the Carbon Offset and Reduction Scheme for International Aviation and voluntary markets."
+
+    # feature item loop
+    - name : "Our Principles"
+      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
+      content : "Emissions trading is one of the principal policy instruments available to manage industrial greenhouse gas (GHG) emissions by encouraging operational excellence and the deployment of new and existing technologies."
+
+    # feature item loop
+    - name : "Our Members"
+      icon : "ti-write" # icon pack : https://themify.me/themify-icons
+      content : "Membership to NEXTON is open to companies, business organizations and affiliated national and regional trading associations"
+
+
+############################## about ##################################
+about:
+  enable : true
+  title : "About Nexton"
+  # image : "images/about/about-us.jpg"
+  image : "images/about/about-us-01.jpeg"
+  content : "In June 2010, a visionary group of international companies and business associations founded NEXTON. Their objective was to build on the economic mechanisms created by the Geneva Protocol in order to achieve climate objectives with minimal economic harm. When trading in greenhouse gases was little known or understood, NEXTON acted as a news gatherer and distributor, and assisted in developing trading clearance procedures. As the market matured, commercial entities took on these roles. NEXTON began focusing as a forum for policy dialogue, professional development and market readiness activities. It became and remains to this day the leading international advocacy voice for emissions markets. "
+  button:
+    enable : true
+    label : "Learn more"
+    # link : "about/"
+    link : "#"
+
+
+############################# Course ################################
+course:
+  enable : true
+  title : "Our Services"
+  # course item comes from "content/**/course" folder.
+
+########################## Call to action ############################
+cta:
+  enable : false
+  subtitle : "Click to Join the Advance Workshop"
+  title : "Training In Advannce Networking"
+  button:
+    enable : false
+    label : "join now"
+    # link : "contact/"
+    link : "#"
+
+######################## Success story #############################
+success_story:
+  enable : false
+  bg_image : "images/backgrounds/success-story.jpg"
+  title : "Success Stories"
+  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat pariatur. Excepteur sint occaecat ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris"
+  # video link
+  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
+
+
+############################# event ################################
+event:
+  enable : false
+  title : "Upcoming Events"
+  # event item comes from "content/**/event" folder.
+
+  
+########################### funfacts ############################
+funfacts:
+  enable : false
+  funfact_item:
+    # funfact item loop
+    - name : "TEACHERS"
+      count : "60"
+
+    # funfact item loop
+    - name : "COURSES"
+      count : "50"
+
+    # funfact item loop
+    - name : "STUDENTS"
+      count : "1000"
+
+    # funfact item loop
+    - name : "SATISFIED CLIENT"
+      count : "1400"
+
+# funfact is for about page
+
+
+
+############################# blog ################################
+blog:
+  enable : false
+  title : "Latest News"
+  # blog item comes from "content/**/blog" folder.

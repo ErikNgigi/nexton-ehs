@@ -225,8 +225,8 @@ weight = 4
   
 [[Languages.en.menu.main]]
 name = "Contact"
-# url = "contact/"
-url = "#"
+url = "contact/"
+# url = "#"
 weight = 5
 
 

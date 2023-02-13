@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Nexton-EHS</title>
+    <link>https://erikngigi.github.io/nexton-ehs/categories/</link>
+    <description>Recent content in Categories on Nexton-EHS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2023 A theme template by Eric Ngigi</copyright>
+    <lastBuildDate>Sat, 06 Jul 2019 15:27:17 +0600</lastBuildDate><atom:link href="https://erikngigi.github.io/nexton-ehs/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation System</title>
+      <link>https://erikngigi.github.io/nexton-ehs/categories/automation-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://erikngigi.github.io/nexton-ehs/categories/automation-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://erikngigi.github.io/nexton-ehs/categories/deep-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://erikngigi.github.io/nexton-ehs/categories/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eco System</title>
+      <link>https://erikngigi.github.io/nexton-ehs/categories/eco-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://erikngigi.github.io/nexton-ehs/categories/eco-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Education System</title>
+      <link>https://erikngigi.github.io/nexton-ehs/categories/education-system/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://erikngigi.github.io/nexton-ehs/categories/education-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>English Learning</title>
+      <link>https://erikngigi.github.io/nexton-ehs/categories/english-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://erikngigi.github.io/nexton-ehs/categories/english-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathmatics Learning</title>
+      <link>https://erikngigi.github.io/nexton-ehs/categories/mathmatics-learning/</link>
+      <pubDate>Sat, 06 Jul 2019 15:27:17 +0600</pubDate>
+      
+      <guid>https://erikngigi.github.io/nexton-ehs/categories/mathmatics-learning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
